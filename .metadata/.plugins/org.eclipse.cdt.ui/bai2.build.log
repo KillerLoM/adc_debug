@@ -1,0 +1,10 @@
+01:42:33 **** Incremental Build of configuration Debug for project bai2 ****
+make -j8 all 
+arm-none-eabi-size   bai2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12980	     20	   1748	  14748	   399c	bai2.elf
+Finished building: default.size.stdout
+ 
+
+01:42:34 Build Finished. 0 errors, 0 warnings. (took 720ms)
+
